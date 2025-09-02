@@ -11,6 +11,6 @@ I'm a third year PhD student from [Department of ECE](https://ece.umd.edu/), [Un
 
 I am very fortunate to be advised by [Prof. Ang Li](https://www.ang-li.com/) of CASE Lab from Department of ECE, University of Maryland.
 
-You can find my CV here: [Zheyu's Curriculum Vitae](../assets/ZheyuShenCV.pdf).
+You can find my CV here: [Zheyu's Curriculum Vitae](../files/ZheyuShenCV.pdf).
 
 [Email](mailto:zyshen@umd.edu) / [Github](https://github.com/shenzheyu)
