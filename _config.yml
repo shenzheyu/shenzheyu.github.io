@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zheyu Shen / Personal Homepage"
+title                    : "Zheyu Shen's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zheyu Shen"
 description              : &description "a third year Ph.D. student from University of Maryland, College Park"
